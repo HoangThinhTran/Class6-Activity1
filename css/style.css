@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+body {
+  background-color: linen;
+}
+
+header {
+  color: hotpink;
+}
+
+ul {
+  font-weight: bold;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: orchid;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  color: green;
+}
+
+header {
+  width: 50%;
+  border: 5px double fuchsia;
+  padding: 10px;
+  margin: 20px;
+  background-color: mistyrose;
+  text-align: center;
+}
+
+nav {
+  width: 50%;
+  border: 3px solid orange;
+  padding: 10px;
+  margin: 20px;
+  background-color: whitesmoke;
+  text-align: left;
+}
+
+main {
+  width: auto;
+  border: 3px dotted grey;
+  padding: 5px;
+  margin-right: 45px;
+}
+
+footer {
+  width: 50%;
+  border: 2px dashed black;
+  padding: 10px;
+  margin: 20px;
+  font-size: 18px;
+}
