@@ -45,10 +45,11 @@ nav {
 }
 
 main {
-  width: auto;
+  width: 50%;
   border: 3px dotted grey;
-  padding: 5px;
-  margin-right: 45px;
+  padding: 10px;
+  margin: 20px;
+  text-align: left;
 }
 
 footer {
